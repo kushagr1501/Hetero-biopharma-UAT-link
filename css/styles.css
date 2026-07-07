@@ -88,6 +88,8 @@ a {
 html {
     height: 100%;
     width: 100%;
+    scroll-padding-top: 150px;
+    scroll-behavior: smooth;
 }
 
 body {
